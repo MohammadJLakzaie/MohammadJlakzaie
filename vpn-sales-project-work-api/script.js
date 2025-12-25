@@ -1,6 +1,6 @@
 
 const blogEl = document.querySelector(".first-blog");
-const innerBlogEl = document.getElementById("post");
+const innerBlogEl = document.querySelector(".post");
 console.log(innerBlogEl);
 
 
