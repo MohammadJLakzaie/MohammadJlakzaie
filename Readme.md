@@ -34,7 +34,7 @@ A classic snake game built with **JavaScript, HTML5 Canvas, and Tailwind**.
 > *What I practiced:* DOM manipulation, game logic, event handling, and clean code structure.
 
 ---
-# React Todo Dashboard – Vite + TypeScript
+# React Todo Dashboard – Vite + TypeScript(In-Progress)
 
 A fast and interactive todo dashboard built with React, TypeScript, and Vite. Features include adding, editing, deleting tasks, filtering by status, and real-time statistics.
 ---
