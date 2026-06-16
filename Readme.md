@@ -28,7 +28,7 @@ Currently diving deeper into **React** while mastering the fundamentals.
 ## 🚀 Featured Project
 
 ### 🐍 Snake Game (Vanilla JS)
-A classic snake game built with **JavaScript, HTML5 Canvas, and CSS**.  
+A classic snake game built with **JavaScript, HTML5 Canvas, and Tailwind**.  
 [🔗 Live Demo](#) *(add your link if deployed)* | [📂 Source Code](#) *(add repo link)*
 
 > *What I practiced:* DOM manipulation, game logic, event handling, and clean code structure.
