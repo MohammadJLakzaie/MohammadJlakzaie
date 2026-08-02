@@ -35,7 +35,7 @@ Currently, I'm focused on improving my frontend engineering skills by building r
 
 ---
 
-# 🚀 Featured Project
+#  Featured Project
 
 ## 📋 Task Board *(In Progress)*
 
