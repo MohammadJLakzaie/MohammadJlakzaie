@@ -54,13 +54,14 @@ The project is designed to simulate a real-world Kanban board, allowing users to
 - 👤 User Profile
 - 🌐 REST API Integration
 - ⏳ Loading States
+- 🔄 Drag & Drop Tasks
+- 👤 Profile Editing
+ 
 
 ### Currently Working On
-
-- 🔄 Drag & Drop Tasks
 - ✏️ Task Editing
 - 📂 Task Status Management
-- 👤 Profile Editing
+
 - ⚛️ React Context API
 - 💾 Persistent Data Storage
 
