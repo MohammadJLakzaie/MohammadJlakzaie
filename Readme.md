@@ -51,6 +51,7 @@ The project is designed to simulate a real-world Kanban board, allowing users to
 - 📌 Kanban-style Task Board
 - ➕ Create Tasks
 - 🗑️ Delete Tasks
+- ✏️ Task Editing
 - 👤 User Profile
 - 🌐 REST API Integration
 - ⏳ Loading States
@@ -59,7 +60,7 @@ The project is designed to simulate a real-world Kanban board, allowing users to
  
 
 ### Currently Working On
-- ✏️ Task Editing
+
 - 📂 Task Status Management
 
 - ⚛️ React Context API
