@@ -89,6 +89,12 @@ The project is designed to simulate a real-world Kanban board, allowing users to
 
 ---
 
+## Demo
+
+You can view the live demo of this project here:
+
+🔗 [Live Demo](https://dashboard-react.mohammadjavadlakzaie027.workers.dev)
+
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Javad%20Lakzaie-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-javad-lakzaie-b19457395/)
